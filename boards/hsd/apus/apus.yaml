@@ -1,0 +1,24 @@
+identifier: apus
+name: APUS
+type: mcu
+arch: arm
+ram: 16
+flash: 128
+toolchain:
+  - zephyr
+  - gnuarmemb
+supported:
+  - adc
+  - arduino_gpio
+  - arduino_serial
+  - arduino_spi
+  - can
+  - dac
+  - display
+  - eeprom
+  - gpio
+  - i2c
+  - input
+  - pwm
+  - usbd
+vendor: hsd

@@ -1,0 +1,6 @@
+board:
+  name: apus
+  full_name: APUS
+  vendor: hsd
+  socs:
+    - name: stm32f072xb
